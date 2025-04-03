@@ -18,7 +18,7 @@ public class ImplicitCasting {
 			
 			double d = t1;
 		    
-			System.out.println("\n\nDouble number = " + d);25
+			System.out.println("\n\nDouble number = " + d);
 			
 			System.out.println("\nDo you wish to continue? y/n");
 			flag=scanner.next();
